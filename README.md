@@ -8,7 +8,7 @@ How to run:
 -
 Build the bal file:
 ```
-ballerina build <file-name>
+ballerina build <file-name>.bal
 ```
 
 Run the generated jar:
