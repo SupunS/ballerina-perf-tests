@@ -6,12 +6,16 @@ Contains performance test cases for the ballerina runtime, for different scenari
  
 How to run:
 -
-Build the bal file:
+Navigate inside the ballerina project `language-tests`
+
+Build all the modules inside the project:
 ```
-ballerina build <file-name>.bal
+ballerina build -a
 ```
+
+This will generate a runnable jar `target/bin/tests.jar`
 
 Run the generated jar:
 ```
-java -jar <file-name>.jar
+java -jar target/bin/tests.jar
 ```
