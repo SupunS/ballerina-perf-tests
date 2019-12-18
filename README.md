@@ -1,7 +1,9 @@
 # ballerina-perf-tests
 
-Contains performance test cases for the ballerina runtime, for different scenarios.
- - ballerina-values.bal - Perf tests for create, get and set operations for ballerina records, maps, objects and arrays
+Contains performance test cases for the ballerina runtime, for different scenarios. These includes perf tests for: 
+ - Create, get and set operations for ballerina records, maps, objects and arrays
+ - Function invocations
+ - Type tests
  
  
 How to run:
