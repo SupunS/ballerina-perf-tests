@@ -41,8 +41,8 @@ public function main() {
 
     // Type Tests
     utils:setIterations(20000000);
-    utils:test(primitiveTypeTest, "primitive type test");
-    utils:test(primitiveUnionTypeTest, "primitive union type test");
+    utils:test(primitiveTypeTest, "Primitive type test");
+    utils:test(primitiveUnionTypeTest, "Primitive union type test");
 
 
     io:println("---------------------------------------------------------");
