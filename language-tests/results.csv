@@ -1,0 +1,13 @@
+Test Case,Consumed Time
+Create Record,1019
+Create Object,2610
+Create Map,2419
+Create Array,1544
+Create Primitive Array,2809
+Record get,402
+Object get,341
+Map get,353
+Array get,239
+Primitive Array get,282
+primitive type test,186
+primitive union type test,4927
