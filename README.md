@@ -19,3 +19,5 @@ Run the generated jar:
 ```
 java -jar target/bin/tests.jar
 ```
+
+The results will be printed in the console, as also will write to a csv file `results.csv`
