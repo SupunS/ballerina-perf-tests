@@ -1,4 +1,4 @@
-,Time (ms),,
+,Time (ms)
 Operation,1.0.0,1.0.5,1.1.0-beta2
 Create Record,8935,4446,975
 Create Object,3816,3955,2661
