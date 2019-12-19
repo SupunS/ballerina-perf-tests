@@ -1,0 +1,25 @@
+,Time (ms),,
+Operation,1.0.0,1.0.5,1.1.0-beta2
+Create Record,8935,4446,975
+Create Object,3816,3955,2661
+Create Map,4982,4976,2500
+Create Array,1723,1568,1606
+Create Primitive Array,3381,3255,2923
+,,,
+Record get,1501,1495,416
+Object get,357,347,356
+Map get,1725,1577,351
+Array get,259,269,246
+Primitive Array get,279,288,295
+,,,
+Record set,3181,3134,1177
+Object set,1973,1975,860
+Map set,3833,3664,2286
+Array set,5218,5120,1771
+Primitive Array set,2825,2809,1496
+,,,
+No returns function,1852,1868,1822
+String returning function,1860,1888,1841
+Function Pointer Call,3032,3148,3212
+primitive type test,507,518,198
+primitive union type test,4743,4727,4096
