@@ -4,19 +4,19 @@ Create Object,3816,3955,2582
 Create Map,4982,4976,2524
 Create Array,1723,1568,1542
 Create Primitive Array,3381,3255,3030
-,,,,
+,,,
 Record get,1501,1495,418
 Object get,357,347,359
 Map get,1725,1577,361
 Array get,259,269,260
 Primitive Array get,279,288,289
-,,,,
+,,,
 Record set,3181,3134,1176
 Object set,1973,1975,849
 Map set,3833,3664,2087
 Array set,5218,5120,1763
 Primitive Array set,2825,2809,1494
-,,,,
+,,,
 No returns function,1852,1868,1849
 String returning function,1860,1888,1823
 Function Pointer Call,3032,3148,3171
