@@ -1,24 +1,24 @@
-Operation,v1.0.0,v1.0.5,v1.1.0-beta2,v1.1.0
-Create Record,8935,4446,975,975
-Create Object,3816,3955,2661,2582
-Create Map,4982,4976,2500,2524
-Create Array,1723,1568,1606,1542
-Create Primitive Array,3381,3255,2923,3030
+Operation,v1.0.0,v1.0.5,v1.1.0
+Create Record,8935,4446,975
+Create Object,3816,3955,2582
+Create Map,4982,4976,2524
+Create Array,1723,1568,1542
+Create Primitive Array,3381,3255,3030
 ,,,,
-Record get,1501,1495,416,418
-Object get,357,347,356,359
-Map get,1725,1577,351,361
-Array get,259,269,246,260
-Primitive Array get,279,288,295,289
+Record get,1501,1495,418
+Object get,357,347,359
+Map get,1725,1577,361
+Array get,259,269,260
+Primitive Array get,279,288,289
 ,,,,
-Record set,3181,3134,1177,1176
-Object set,1973,1975,860,849
-Map set,3833,3664,2286,2087
-Array set,5218,5120,1771,1763
-Primitive Array set,2825,2809,1496,1494
+Record set,3181,3134,1176
+Object set,1973,1975,849
+Map set,3833,3664,2087
+Array set,5218,5120,1763
+Primitive Array set,2825,2809,1494
 ,,,,
-No returns function,1852,1868,1822,1849
-String returning function,1860,1888,1841,1823
-Function Pointer Call,3032,3148,3212,3171
-primitive type test,507,518,198,202
-primitive union type test,4743,4727,4096,4088
+No returns function,1852,1868,1849
+String returning function,1860,1888,1823
+Function Pointer Call,3032,3148,3171
+primitive type test,507,518,202
+primitive union type test,4743,4727,4088
